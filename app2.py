@@ -58,7 +58,7 @@ if uploaded_file:
         "EffectifEntreprise": effectif_entreprise,
         "DateEntreprise": date_entreprise,
         "ResponsableCabinet": responsable_cabinet,
-        "StatutEntreprise": statut_entreprise,
+        "Statut": statut_entreprise,
         "PosteEntreprise": poste_entreprise,
         "PrixComptabilité": prix_comptabilite,
         "PrixFiscalité": prix_fiscalite,
